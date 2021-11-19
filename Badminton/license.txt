@@ -1,0 +1,11 @@
+Model Information:
+* title:	羽毛球发球容积棚扫描数据
+* source:	https://sketchfab.com/3d-models/d712d96328bf4ad3a025b158e1f1183d
+* author:	Yuki (https://sketchfab.com/SHLER)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "羽毛球发球容积棚扫描数据" (https://sketchfab.com/3d-models/d712d96328bf4ad3a025b158e1f1183d) by Yuki (https://sketchfab.com/SHLER) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
